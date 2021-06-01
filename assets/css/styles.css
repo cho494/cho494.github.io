@@ -1001,6 +1001,10 @@ section-scroll-down::after {
     color: #939393;
 }
 
+.source-text {
+    font-size: 14px;
+}
+
 /*      CONTACT BOX         */
 
 .contact-box {
