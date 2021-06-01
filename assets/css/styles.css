@@ -46,8 +46,8 @@ body {
 .video-settings {
     margin-left: 0 !important;
     z-index: 3000;
-    height: 1057px;
-    width: 1920px !important;
+    height: 100%;
+    width: 100%;
 }
 
 /*        SECTION NAV          */
